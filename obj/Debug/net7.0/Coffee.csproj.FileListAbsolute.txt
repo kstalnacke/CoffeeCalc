@@ -1,0 +1,15 @@
+D:\Coding\C#\Coffee\bin\Debug\net7.0\Coffee.exe
+D:\Coding\C#\Coffee\bin\Debug\net7.0\Coffee.deps.json
+D:\Coding\C#\Coffee\bin\Debug\net7.0\Coffee.runtimeconfig.json
+D:\Coding\C#\Coffee\bin\Debug\net7.0\Coffee.dll
+D:\Coding\C#\Coffee\bin\Debug\net7.0\Coffee.pdb
+D:\Coding\C#\Coffee\obj\Debug\net7.0\Coffee.csproj.AssemblyReference.cache
+D:\Coding\C#\Coffee\obj\Debug\net7.0\Coffee.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\Coffee\obj\Debug\net7.0\Coffee.AssemblyInfoInputs.cache
+D:\Coding\C#\Coffee\obj\Debug\net7.0\Coffee.AssemblyInfo.cs
+D:\Coding\C#\Coffee\obj\Debug\net7.0\Coffee.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Coffee\obj\Debug\net7.0\Coffee.dll
+D:\Coding\C#\Coffee\obj\Debug\net7.0\refint\Coffee.dll
+D:\Coding\C#\Coffee\obj\Debug\net7.0\Coffee.pdb
+D:\Coding\C#\Coffee\obj\Debug\net7.0\Coffee.genruntimeconfig.cache
+D:\Coding\C#\Coffee\obj\Debug\net7.0\ref\Coffee.dll
