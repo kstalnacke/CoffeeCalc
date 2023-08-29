@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Coding\\C#\\Coffee\\Coffee.csproj": {}
+    "D:\\Coding\\C#\\Coffee\\Coffee.csproj": {}
   },
   "projects": {
-    "d:\\Coding\\C#\\Coffee\\Coffee.csproj": {
+    "D:\\Coding\\C#\\Coffee\\Coffee.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Coding\\C#\\Coffee\\Coffee.csproj",
+        "projectUniqueName": "D:\\Coding\\C#\\Coffee\\Coffee.csproj",
         "projectName": "Coffee",
-        "projectPath": "d:\\Coding\\C#\\Coffee\\Coffee.csproj",
+        "projectPath": "D:\\Coding\\C#\\Coffee\\Coffee.csproj",
         "packagesPath": "C:\\Users\\Kaleb\\.nuget\\packages\\",
-        "outputPath": "d:\\Coding\\C#\\Coffee\\obj\\",
+        "outputPath": "D:\\Coding\\C#\\Coffee\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kaleb\\AppData\\Roaming\\NuGet\\NuGet.Config",

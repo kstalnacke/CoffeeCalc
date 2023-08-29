@@ -30,17 +30,9 @@ namespace KStalnacke.Coffee
 
         static void Main(string[] args)
         {
-            Console.Title = "Coffee Calculator";
-            Console.WriteLine("Enter the number of cups:");
-            int numberOfCups = Convert.ToInt32(Console.ReadLine());
-
-            int gramsOfBeans = CalculateGrams(numberOfCups);
-            int grindSize = CalculateGrind(gramsOfBeans);
-
-            Console.WriteLine($"For {numberOfCups} cups of coffee, you should use {gramsOfBeans} grams of beans.");
-            Console.WriteLine($"You should use grind size {grindSize} for this batch size.");
-
-            Console.ReadLine();
+            Console.WriteLine("Enter the amount of cups you want to use:");
+            int numberOfCups = Convert.ToInt16(Console.ReadLine());
+            Console.ReadKey();
         }
     }
 }
